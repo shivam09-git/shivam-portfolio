@@ -1,16 +1,119 @@
-# React + Vite
+# Shivam Naik | Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A personal portfolio website built with React.js and Vite to showcase my technical skills, projects, education, and development journey.
 
-Currently, two official plugins are available:
+## 🌐 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Live Demo:** https://shivamnaik-portfolio.netlify.app/
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am Shivam Naik, a Computer Science and Engineering graduate interested in full-stack web development and software engineering. I enjoy building responsive web applications, developing practical solutions, and continuously improving my technical skills.
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Frontend:** React.js, JSX, JavaScript, HTML5, CSS3
+- **Development Tool:** Vite
+- **Version Control:** Git and GitHub
+- **Deployment:** Netlify
+
+## ✨ Portfolio Highlights
+
+- Personal introduction and professional profile
+- Technical skills and areas of expertise
+- Projects and development experience
+- Education and qualifications
+- Resume and contact information
+- Links to professional profiles
+
+## 📁 Project Structure
+
+```text
+shivam-portfolio/
+├── public/          # Static assets
+├── resume/          # Resume files
+├── src/             # React application source code
+├── dist/            # Production build output
+├── index.html       # HTML entry point
+├── package.json     # Project dependencies and scripts
+├── package-lock.json
+├── vite.config.js   # Vite configuration
+└── README.md        # Project documentation
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+- Git
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/shivam09-git/shivam-portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd shivam-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to view the website.
+
+## 🏗️ Production Build
+
+Create an optimized production build:
+
+```bash
+npm run build
+```
+
+Preview the production build locally:
+
+```bash
+npm run preview
+```
+
+The production files will be generated in the `dist/` directory.
+
+## 🌍 Deployment
+
+This portfolio can be deployed using Netlify or Vercel.
+
+For Netlify with Vite, configure:
+
+- **Build command:** `npm run build`
+- **Publish directory:** `dist`
+
+## 📬 Connect With Me
+
+- **GitHub:** [shivam09-git](https://github.com/shivam09-git)
+- **LinkedIn:** [Shivam Naik](https://www.linkedin.com/in/shivam-naik09)
+- **Portfolio:** [shivamnaik-portfolio.netlify.app](https://shivamnaik-portfolio.netlify.app/)
+
+## 📄 License
+
+This project is a personal portfolio created to showcase my skills and projects.
+
+---
+
+⭐ Thank you for visiting my portfolio!
+
+**Developed by Shivam Naik**
